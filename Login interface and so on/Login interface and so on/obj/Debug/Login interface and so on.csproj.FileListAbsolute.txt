@@ -16,3 +16,21 @@ C:\Users\Andreas K Gregersen\source\repos\Login interface and so on\Login interf
 C:\Users\Andreas K Gregersen\source\repos\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Blackjack.resources
 C:\Users\Andreas K Gregersen\source\repos\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Countdown.resources
 C:\Users\Andreas K Gregersen\source\repos\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Check_in_Form.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\bin\Debug\Login interface and so on.exe.config
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\bin\Debug\Login interface and so on.exe
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\bin\Debug\Login interface and so on.pdb
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login interface and so on.csprojAssemblyReference.cache
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Blackjack.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Calculator.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Check_in_Form.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Countdown.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Dice_Games.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Login_Interface.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Main_Menu.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Fun_Facts.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Form_Mini_Games.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login_interface_and_so_on.Properties.Resources.resources
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login interface and so on.csproj.GenerateResource.cache
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login interface and so on.csproj.CoreCompileInputs.cache
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login interface and so on.exe
+C:\Users\Andreas K Gregersen\Desktop\GitHub\Shiz-I-made-in-SKP\Login interface and so on\Login interface and so on\obj\Debug\Login interface and so on.pdb
