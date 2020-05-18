@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login interface and so on", "Login interface and so on\Login interface and so on.csproj", "{46FEFC2F-CEEA-40E3-948D-B6F744F553E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login system, text editor, lommeregner, etc", "..\Login system, text editor, lommeregner, etc\Login system, text editor, lommeregner, etc\Login system, text editor, lommeregner, etc.csproj", "{19B5D9B4-166E-4130-BA8B-CB6D01F23A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FEFC2F-CEEA-40E3-948D-B6F744F553E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FEFC2F-CEEA-40E3-948D-B6F744F553E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FEFC2F-CEEA-40E3-948D-B6F744F553E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FEFC2F-CEEA-40E3-948D-B6F744F553E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B5D9B4-166E-4130-BA8B-CB6D01F23A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B5D9B4-166E-4130-BA8B-CB6D01F23A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B5D9B4-166E-4130-BA8B-CB6D01F23A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B5D9B4-166E-4130-BA8B-CB6D01F23A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE102910-3CE9-430D-A4D0-58FB67DC7E5A}
+	EndGlobalSection
+EndGlobal
